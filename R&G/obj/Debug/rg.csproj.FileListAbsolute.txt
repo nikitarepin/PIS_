@@ -1,0 +1,10 @@
+C:\Users\LexCh\source\repos\pussy\pussy\obj\Debug\pussy.csproj.AssemblyReference.cache
+C:\Users\LexCh\source\repos\pussy\pussy\obj\Debug\pussy.Properties.Resources.resources
+C:\Users\LexCh\source\repos\pussy\pussy\obj\Debug\pussy.csproj.GenerateResource.cache
+C:\Users\LexCh\source\repos\pussy\pussy\obj\Debug\pussy.csproj.CoreCompileInputs.cache
+C:\Users\LexCh\source\repos\pussy\pussy\bin\Debug\pussy.exe.config
+C:\Users\LexCh\source\repos\pussy\pussy\bin\Debug\pussy.exe
+C:\Users\LexCh\source\repos\pussy\pussy\bin\Debug\pussy.pdb
+C:\Users\LexCh\source\repos\pussy\pussy\obj\Debug\pussy.exe
+C:\Users\LexCh\source\repos\pussy\pussy\obj\Debug\pussy.pdb
+C:\Users\LexCh\source\repos\pussy\pussy\obj\Debug\RoadMapApp.View.MainForm.resources
